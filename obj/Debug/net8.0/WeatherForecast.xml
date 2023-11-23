@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WeatherForecast</name>
+    </assembly>
+    <members>
+        <member name="T:Program">
+            <summary>
+            Classe principal da minha API.
+            </summary>
+            <remarks>
+            Descrição adicional sobre a classe principal da API.
+            </remarks>
+        </member>
+    </members>
+</doc>
